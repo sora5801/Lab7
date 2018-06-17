@@ -1,2 +1,4 @@
 ﻿  Lab7.cpp
+c:\users\matthew\source\repos\lab7\lab7\lab7.cpp(197): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\matthew\source\repos\lab7\lab7\lab7.cpp(202): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   Lab7.vcxproj -> c:\Users\MATTHEW\source\repos\Lab7\Debug\Lab7.exe
